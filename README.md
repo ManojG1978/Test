@@ -1,2 +1,2 @@
-# Test
-For dummy testing
+# Place Holder
+Samples, place holder code, documents etc.
